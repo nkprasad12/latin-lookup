@@ -1,0 +1,6 @@
+{
+    "name": "latin-lookup",
+    "description": "Extension to look up Latin words in Wiktionary directly.",
+    "version": "0.0",
+    "manifest_version": 3
+  }
